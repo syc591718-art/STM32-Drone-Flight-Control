@@ -1,0 +1,5 @@
+{
+      "editor.tokenColorCustomizations": {
+    "comments": "#6A9955"   // 绿色，与 Visual Studio 经典风格一致
+  }
+}
