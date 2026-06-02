@@ -2,10 +2,12 @@
 基于 STM32F103C8T6 + FreeRTOS 的四轴无人机飞控系统，包含飞控板代码和遥控器代码。
 
 ##  工程结构
+```
 STM32-Drone-Flight-Control/
 ├── Flight/ # 飞控板代码
 ├── Remote/ # 遥控器代码
 └── README.md
+```
 
 
 ### Flight（飞控板）
