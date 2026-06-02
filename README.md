@@ -131,7 +131,8 @@ STM32-Drone-Flight-Control/
 | App_process_data | 摇杆校准、按键处理、数据处理 |
 | App_transmit_data | 遥控数据打包发送 |
 ---
-<img width="1080" height="1920" alt="841894483c61f70aa7fc26d54d693f6a_720" src="https://github.com/user-attachments/assets/06f0e740-fa90-4fec-a466-a2bcc04d9c22" />
+<img width="1280" height="720" alt="388defd28740a8e09b4b49d68f6e8e07_720" src="https://github.com/user-attachments/assets/d7a4550f-883c-4e3e-b118-8038a053c64b" />
+
 
 
 ## 📄 许可证
